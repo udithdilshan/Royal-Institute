@@ -1,7 +1,7 @@
 # Royal-Institute
-## Student Management System for Royal Institute
+## Student Registration System for Royal Institute
 
-Student Managemet System is a software created to register student for different programs and view student details based on the program. 
+Student Registration System is a software created to register student for different programs and view student details based on the program. 
 New programs can be created and Removed form Royal Institute.
 
 ## Learned while creating this app
